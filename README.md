@@ -1,11 +1,9 @@
 <h1> Hi, my name is Edwards Perez</h1>
 </hr>
-* Web and Mobile Programmer </br>
+* Web and Mobile Programmer |  Graphic Design professional | Web Development </br>
+* 1 years of frontend experience </br>
 * 1 years of frontend experience </br>
 
-<h1>GitHub</h1> 
-</hr>
-<img src="https://github-readme-stats.vercel.app/api?username=EdwardsPerez" alt="Most used technologies">
 
 <h1>Most used technologies</h1> 
 </hr>
