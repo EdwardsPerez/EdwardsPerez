@@ -2,7 +2,6 @@
 </hr>
 * Web and Mobile Programmer |  Graphic Design professional | Web Development </br>
 * 1 years of frontend experience </br>
-* 1 years of frontend experience </br>
 
 
 <h1>Most used technologies</h1> 
