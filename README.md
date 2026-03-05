@@ -4,7 +4,7 @@
 
 ### Web and Mobile Programmer | Graphic Design Professional | Web Development | Full Stack Web Developer | UX/UI
 
-🚀 **2 year of experience**
+🚀 **2+ years of experience developing web applications using modern technologies and creating user-focused digital solutions.**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -211,11 +211,13 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm a **Graphic Design and Web Development professional**, focused on creating functional visual interfaces and user-oriented digital solutions. 
+Hello! I'm a Web Developer and Graphic Design professional focused on building functional digital solutions and user-centered interfaces.
 
-I have experience in **HTML, CSS, PHP, JavaScript, and WordPress**, applying best practices in development and responsive design. 
+I have experience developing web applications using HTML, CSS, JavaScript, PHP and WordPress, applying best practices in responsive design and user experience. I also have knowledge in C# and .NET for backend development, working with relational databases such as SQL Server and MySQL, and integrating APIs.
 
-Committed to **continuous learning, creativity, and constant improvement** in every project.
+My background in graphic design and UI/UX allows me to create visually appealing and intuitive interfaces while maintaining efficient and scalable development practices.
+
+I am committed to continuous learning, problem solving and improving every project I work on.
 
 ---
 
