@@ -225,6 +225,11 @@ Committed to **continuous learning, creativity, and constant improvement** in ev
 
 ---
 
+## Contact
+
+Email: edwardssmithp053@gmail.com  
+Location: Lima, Peru
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 <p align="center">
