@@ -2,9 +2,9 @@
 
 # Hi, my name is Edwards Perez 👋
 
-### Web and Mobile Programmer | Graphic Design Professional | Web Development
+### Web and Mobile Programmer | Graphic Design Professional | Web Development | Full Stack Web Developer | UX/UI
 
-🚀 **1 year of frontend experience**
+🚀 **2 year of frontend experience**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
